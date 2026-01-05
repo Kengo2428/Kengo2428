@@ -19,11 +19,13 @@ Im Kevin, a Computer Engineering Student in Atlanta, GA.
 I go to Georgia Tech studying Distributed System, Software Design, Computing Hardware and Emerging Architectures.
 
 Currently learning circuit analysis, digital design and data structures/algorithms. 
+
 ---
 ## Skills
 
 * Python, Java, C, RISC-V, Linux
 * HTML, CSS, Javascript
 * Arduino, MBED, Soldering, Breadboarding
+  
 ---
 
